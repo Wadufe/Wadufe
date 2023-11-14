@@ -52,6 +52,11 @@ Mi meta a futuro es ser un experto en software seguro y eficiente. Quiero aprend
 </p>
 <br>
 
+### 📗 Proyectos personales
+<a href="https://github.com/Wadufe/Licoreria-Duque-Fernandez">
+    <img src="https://scontent.fctg2-1.fna.fbcdn.net/v/t39.30808-6/401800925_899004521659490_6687875280032400983_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGG1vUHoq6H55gt_qJ6pv4nSvE2Vzt5kHVK8TZXO3mQdRB27qxy6DU7jxBKK4Xcjn6TZGKsxeC1I7EDwCAcTGaT&_nc_ohc=BVyXDU2iv0sAX-2ywtZ&_nc_ht=scontent.fctg2-1.fna&oh=00_AfC_W-RdBvINoucpqKk0Fb-gjbPPDx5SFmAKcnZ_uK6q8Q&oe=655830F1" height="130" />
+  </a>
+
 ### 📞 Conectemos
 
 <p align="center">
